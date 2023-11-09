@@ -1,5 +1,5 @@
 # Social
-Twitter Clone to help me learn full stack development
+Twitter style social media to help me learn full stack development
 
 Frontend -> React JS
 Backend -> Go
