@@ -1,5 +1,5 @@
 # Social
-Twitter style social media to help me learn full stack development
+Simple social media to help me learn full stack development
 
-Frontend -> React JS
+Frontend -> Svelte JS
 Backend -> Go
